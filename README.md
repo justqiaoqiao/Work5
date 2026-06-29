@@ -34,6 +34,12 @@ $$\mathbf{R} = \mathbf{L}_{in} - 2(\mathbf{L}_{in} \cdot \mathbf{N})\mathbf{N}$$
 - Python 3.8+
 - taichi >= 1.4.0
 
+## 渲染演示效果
+<p align="center">
+  <img src="work5/work5_images/work5_one.gif" >
+</p>
+
+
 安装命令：
 ```bash
 pip install taichi
